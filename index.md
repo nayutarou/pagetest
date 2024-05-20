@@ -63,4 +63,4 @@ docs/index.md で docs/hoge.png の画像を表示したい場合
 
 # second.mdに遷移
 
-[second.md](https://nayutarou.github.io/pagetest/second.md)
+[second.md](./second.md)
