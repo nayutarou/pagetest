@@ -1,3 +1,7 @@
+# index.mdに遷移する
+
+[index.mdに遷移](https://nayutarou.github.io/pagetest/)
+
 # 一つ目(斜体) ~ ~
 
 *テキスト*
@@ -18,7 +22,3 @@
 
 * テキスト
 * テキスト
-
-# index.mdに遷移する
-
-[index.mdに遷移](https://nayutarou.github.io/pagetest/)
